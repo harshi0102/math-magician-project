@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Math Magician ](#-math-magician-)
+- [📖 About the Project ](#-about-the-project-)
     - [Phase 1- setup project](#phase-1--setup-project)
   - [Built With](#built-with)
   - [Live Demo](#live-demo)
@@ -33,7 +33,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magician <a name="about-project"></a>
+# 📖 About the Project <a name="about-project"></a>
 
 "Math-magician" is about building Single Page application based on an external API. 
 
