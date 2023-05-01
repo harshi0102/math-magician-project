@@ -40,7 +40,7 @@
 I have setup the environment and tools needed to develop a React application. In the following projects,I will  develop the actual application.
 
 
-<!-- > Describe your project in 1 or 2 sentences. -->
+<!-- > Describe your project in 1 or 2 sentences. --->
 
 
 ### Phase 1- setup project
