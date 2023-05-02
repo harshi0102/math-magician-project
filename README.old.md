@@ -48,6 +48,8 @@ I have setup the environment and tools needed to develop a React application. In
 - [ ] The easiest way to create a React application is using Create React App (CRA) and following the instructions in this [guide](https://create-react-app.dev/docs/getting-started/).
 - [ ] The application should run in the browser without errors.
 
+![screenshot](./snapshot.png)
+
 ## Built With
 
 - Major languages: Javascript
