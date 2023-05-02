@@ -12,7 +12,8 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 About the Project ](#-about-the-project-)
-    - [Phase 1- setup project](#phase-1--setup-project)
+    - [Phase 1- setup branch](#phase-1--setup-branch)
+    - [Phase 2- setup2 branch](#phase-2--setup2-branch)
   - [Built With](#built-with)
   - [Live Demo](#live-demo)
     - [Prerequisites](#prerequisites)
@@ -39,15 +40,22 @@
 
 I have setup the environment and tools needed to develop a React application. In the following projects,I will  develop the actual application.
 
-![screenshot](./snapshot.png)
 
 <!-- > Describe your project in 1 or 2 sentences. --->
 
 
-### Phase 1- setup project
+### Phase 1- setup branch
 
 - [ ] The easiest way to create a React application is using Create React App (CRA) and following the instructions in this [guide](https://create-react-app.dev/docs/getting-started/).
 - [ ] The application should run in the browser without errors.
+  
+
+### Phase 2- setup2 branch
+All the project requirements for the step 2 of the project - Components have been implemented:
+I have created a directory called components from CRA(text,images,styles).Inside components, created a new Calculator.js file and then created a react component that matches the below design.
+
+![screenshot](./snapshot.png)
+
 
 ## Built With
 
