@@ -39,6 +39,7 @@
 
 I have setup the environment and tools needed to develop a React application. In the following projects,I will  develop the actual application.
 
+![screenshot](./snapshot.png)
 
 <!-- > Describe your project in 1 or 2 sentences. --->
 
