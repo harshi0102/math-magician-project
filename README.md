@@ -58,7 +58,7 @@ I have created a directory called components from CRA(text,images,styles).Inside
 ![screenshot](./snapshot.png)
 
 ### Phase 3- Step3 branch
-I have created a new directory calles logic and inside it I wrote code in calculate.js and operate.js after installing big.js using npm.I implemented click event handlers using the math logic from calculate.js and opertae.js in my react component just to make my calculator buttons to work according to the funcationality i.e the button should subtract a given value when clicked on subtract button. 
+I have created a new directory called logic and inside it I wrote code in calculate.js and operate.js after installing big.js using npm.I implemented click event handlers using the math logic from calculate.js and operate.js in my react component just to make my calculator buttons to work according to the funcationality i.e the button should subtract a given value when clicked on subtract button. 
 
 ## Built With
 
