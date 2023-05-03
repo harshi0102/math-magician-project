@@ -14,6 +14,7 @@
 - [📖 About the Project ](#-about-the-project-)
     - [Phase 1- setup branch](#phase-1--setup-branch)
     - [Phase 2- setup2 branch](#phase-2--setup2-branch)
+    - [Phase 3- Step3 branch](#phase-3--step3-branch)
   - [Built With](#built-with)
   - [Live Demo](#live-demo)
     - [Prerequisites](#prerequisites)
@@ -56,6 +57,8 @@ I have created a directory called components from CRA(text,images,styles).Inside
 
 ![screenshot](./snapshot.png)
 
+### Phase 3- Step3 branch
+I have created a new directory called logic and inside it I wrote code in calculate.js and operate.js after installing big.js using npm.I implemented click event handlers using the math logic from calculate.js and operate.js in my react component just to make my calculator buttons to work according to the funcationality i.e the button should subtract a given value when clicked on subtract button. 
 
 ## Built With
 

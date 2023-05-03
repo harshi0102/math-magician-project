@@ -1,38 +1,51 @@
 import './calculator.css';
+import React, { useState } from 'react';
+import calculate from '../logic/calculate';
 
 function Calculator() {
+  const [state, setState] = useState({
+    next: null,
+    operation: null,
+    total: null,
+  });
+
+  const clickHandler = (e) => {
+    setState(calculate(state, e.target.textContent));
+  };
+
+  const { next, operation, total } = state;
   return (
     <div className="container">
-      <div className="calcscreen">0</div>
-      <div className="calcbuttons">
+      <div className="display">{ next || operation || total || 0 }</div>
+      <div className="buttons">
         <div className="row">
-          <div className="gray calc-btn-normal">AC</div>
-          <div className="gray calc-btn-normal">+/-</div>
-          <div className="gray calc-btn-normal">%</div>
-          <div className="calc-btn-normal orangebutton firstsh">÷</div>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">AC</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">+/-</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">%</button>
+          <button type="button" onClick={clickHandler} className="calc-btn-normal orangebutton firstsh">÷</button>
         </div>
         <div className="row">
-          <div className="gray calc-btn-normal">7</div>
-          <div className="gray calc-btn-normal">8</div>
-          <div className="gray calc-btn-normal">9</div>
-          <div className="calc-btn-normal orangebutton">x</div>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">7</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">8</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">9</button>
+          <button type="button" onClick={clickHandler} className="calc-btn-normal orangebutton">x</button>
         </div>
         <div className="row">
-          <div className="gray calc-btn-normal">4</div>
-          <div className="gray calc-btn-normal">5</div>
-          <div className="gray calc-btn-normal">6</div>
-          <div className="calc-btn-normal orangebutton">-</div>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">4</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">5</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">6</button>
+          <button type="button" onClick={clickHandler} className="calc-btn-normal orangebutton">-</button>
         </div>
         <div className="row">
-          <div className="gray calc-btn-normal">1</div>
-          <div className="gray calc-btn-normal">2</div>
-          <div className="gray calc-btn-normal">3</div>
-          <div className="calc-btn-normal orangebutton">+</div>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">1</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">2</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal">3</button>
+          <button type="button" onClick={clickHandler} className="calc-btn-normal orangebutton">+</button>
         </div>
         <div className="row">
-          <div className="gray calc-btn-normal double">0</div>
-          <div className="gray calc-btn-normal lastsh">.</div>
-          <div className="calc-btn-normal orangebutton lastsh">=</div>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal double">0</button>
+          <button type="button" onClick={clickHandler} className="gray calc-btn-normal lastsh">.</button>
+          <button type="button" onClick={clickHandler} className="calc-btn-normal orange lastsh">=</button>
         </div>
       </div>
     </div>
