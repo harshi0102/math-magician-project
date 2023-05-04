@@ -49,6 +49,7 @@ body {
   color: goldenrod;
 }
 
+/* Quote styling */
 .quote-container {
   display: flex;
   margin-top: 200px;
