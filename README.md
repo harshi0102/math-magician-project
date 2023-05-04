@@ -15,6 +15,7 @@
     - [Phase 1- setup branch](#phase-1--setup-branch)
     - [Phase 2- setup2 branch](#phase-2--setup2-branch)
     - [Phase 3- Step3 branch](#phase-3--step3-branch)
+    - [Phase4- Fetch API Branch](#phase4--fetch-api-branch)
   - [Built With](#built-with)
   - [Live Demo](#live-demo)
     - [Prerequisites](#prerequisites)
@@ -59,6 +60,9 @@ I have created a directory called components from CRA(text,images,styles).Inside
 
 ### Phase 3- Step3 branch
 I have created a new directory called logic and inside it I wrote code in calculate.js and operate.js after installing big.js using npm.I implemented click event handlers using the math logic from calculate.js and operate.js in my react component just to make my calculator buttons to work according to the funcationality i.e the button should subtract a given value when clicked on subtract button. 
+
+### Phase4- Fetch API Branch
+I have implemented and used external Api i.e API NINJAS and created a new component for displaying a quote .I fetched data inside of a new component that shows a loading and error state. I imported the new componenet into my main component which is next to the calculator component. 
 
 ## Built With
 
