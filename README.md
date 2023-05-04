@@ -12,22 +12,16 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 About the Project ](#-about-the-project-)
-    - [Phase 1- setup branch](#phase-1--setup-branch)
-    - [Phase 2- setup2 branch](#phase-2--setup2-branch)
-    - [Phase 3- Step3 branch](#phase-3--step3-branch)
   - [Built With](#built-with)
   - [Live Demo](#live-demo)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [Available Scripts](#available-scripts)
-    - [`npm start`](#npm-start)
-    - [`npm test`](#npm-test)
-    - [`npm run build`](#npm-run-build)
-    - [`npm run eject`](#npm-run-eject)
+  - [Run Test](#run-test)
     - [Deployment](#deployment)
   - [Author](#author)
+    - [Future Features](#future-features)
   - [🤝 Contributing](#-contributing)
   - [Show your support](#show-your-support)
   - [Acknowledgments](#acknowledgments)
@@ -45,20 +39,23 @@ I have setup the environment and tools needed to develop a React application. In
 <!-- > Describe your project in 1 or 2 sentences. --->
 
 
-### Phase 1- setup branch
+Phase 1- setup branch
 
 - [ ] The easiest way to create a React application is using Create React App (CRA) and following the instructions in this [guide](https://create-react-app.dev/docs/getting-started/).
 - [ ] The application should run in the browser without errors.
   
 
-### Phase 2- setup2 branch
+Phase 2- setup2 branch
 All the project requirements for the step 2 of the project - Components have been implemented:
 I have created a directory called components from CRA(text,images,styles).Inside components, created a new Calculator.js file and then created a react component that matches the below design.
 
 ![screenshot](./snapshot.png)
 
-### Phase 3- Step3 branch
+Phase 3- Step3 branch
 I have created a new directory called logic and inside it I wrote code in calculate.js and operate.js after installing big.js using npm.I implemented click event handlers using the math logic from calculate.js and operate.js in my react component just to make my calculator buttons to work according to the funcationality i.e the button should subtract a given value when clicked on subtract button. 
+
+Phase4- Fetch API Branch
+I have implemented and used external Api i.e API NINJAS and created a new component for displaying a quote .I fetched data inside of a new component that shows a loading and error state. I imported the new componenet into my main component which is next to the calculator component. 
 
 ## Built With
 
@@ -95,11 +92,13 @@ I have created a new directory called logic and inside it I wrote code in calcul
 - Run `npm start`
 - A new browser will open automatically with application loaded
 
-## Available Scripts
+## Run Test
+
+Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+ `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -107,12 +106,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+ `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+ `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -122,7 +121,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+ `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -143,6 +142,12 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - GitHub: [@harshi0102](https://github.com/harshi0102)
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://linkedin.com/in/harshikagovind)
+
+### Future Features
+ **[Making Complete Website ]**
+ **[Implementation of Routers for dynamic navigation in the website]**
+
+
 
 ## 🤝 Contributing
 
