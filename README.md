@@ -145,7 +145,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Future Features
  **[Making Complete Website ]**
-- **[Implementation of Routers for dynamic navigation in the website]**
+ **[Implementation of Routers for dynamic navigation in the website]**
 
 
 
