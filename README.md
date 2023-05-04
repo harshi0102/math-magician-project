@@ -144,8 +144,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - LinkedIn: [harshikagovind](https://linkedin.com/in/harshikagovind)
 
 ### Future Features
- **[Making Complete Website ]**
- **[Implementation of Routers for dynamic navigation in the website]**
+
+- **[Make complete website]**
+- **[Dynamic usage of routers for  navigation in the website]**
 
 
 
