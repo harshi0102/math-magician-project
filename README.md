@@ -69,7 +69,7 @@ I developed full website with three pages i.e Home, calculator and Quote. For ev
 
 ## Live Demo
 
-- *** [Click here for live demo] ***(https://math-magician-project-git-fullwebsite-harshika0102-gmailcom.vercel.app/calculator)
+-[Click here for live demo](https://math-magician-project-git-fullwebsite-harshika0102-gmailcom.vercel.app/calculator)
 
 ### Prerequisites
 
