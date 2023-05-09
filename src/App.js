@@ -4,7 +4,7 @@ import './App.css';
 import Calculator from './components/Calculator';
 import Quote from './components/quote';
 import Nav from './components/nav';
-import Home from './components/homePage';
+import Home from './components/homepage';
 
 function App() {
   return (
