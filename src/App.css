@@ -53,12 +53,11 @@ body {
 .quote-container {
   display: flex;
   margin-top: 200px;
-  margin-right: -21%;
-  float: right;
   transform: translate(-50%, -50%);
   width: 50%;
   font-family: cursive;
   gap: 10px;
+  margin-left: 50%;
 }
 
 .author {
@@ -83,4 +82,20 @@ body {
   margin-top: 30px;
   margin-bottom: 100px;
   font-family: cursive;
+}
+
+.homePage {
+  padding: 0 5% 4rem 5%;
+}
+
+.homePage h2 {
+  margin-bottom: 2rem;
+  font-size: 18px;
+}
+
+.homePage p {
+  margin-bottom: 1rem;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.7;
 }
