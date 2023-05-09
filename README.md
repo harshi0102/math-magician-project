@@ -57,6 +57,9 @@ I have created a new directory called logic and inside it I wrote code in calcul
 Phase4- Fetch API Branch
 I have implemented and used external Api i.e API NINJAS and created a new component for displaying a quote .I fetched data inside of a new component that shows a loading and error state. I imported the new componenet into my main component which is next to the calculator component. 
 
+Phase5 -Full Website(Math-Magician) branch
+I developed full website with three pages i.e Home, calculator and Quote. For every page, I created a to display navigation links for all 3 routes on each page. I have used react basic styling to improve the look and feel of the pages.
+
 ## Built With
 
 - Major languages: Javascript
@@ -66,7 +69,7 @@ I have implemented and used external Api i.e API NINJAS and created a new compon
 
 ## Live Demo
 
-- No deployment yet
+-[Click here for live demo](https://math-magician-project-git-fullwebsite-harshika0102-gmailcom.vercel.app/calculator)
 
 ### Prerequisites
 
