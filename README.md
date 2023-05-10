@@ -156,11 +156,17 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://linkedin.com/in/harshikagovind)
 
+👤 **Abdul-Aziz Fakhriddinov**
+
+- GitHub: [@harshi0102](https://github.com/harshi0102)
+- Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
+- LinkedIn: [harshikagovind](https://linkedin.com/in/harshikagovind)
+
+
 ### Future Features
 
 - **[Make complete website]**
 - **[Dynamic usage of routers for  navigation in the website]**
-
 
 
 ## 🤝 Contributing
