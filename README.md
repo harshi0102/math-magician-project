@@ -79,7 +79,7 @@ All the requirements from the test phase of the project have been implemented as
 
 ## Live Demo
 
--[Click here for live demo](https://math-magician-project-git-fullwebsite-harshika0102-gmailcom.vercel.app/calculator)
+-[Click here for live demo](https://math-magician-project-git-test-harshika0102-gmailcom.vercel.app/calculator)
 
 ### Prerequisites
 
@@ -146,7 +146,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Deployment
 
-- Not ready yet
+- [Click here for live demo](https://math-magician-project-git-test-harshika0102-gmailcom.vercel.app/calculator)
 
 ## Author
 
