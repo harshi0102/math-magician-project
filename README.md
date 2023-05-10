@@ -60,6 +60,16 @@ I have implemented and used external Api i.e API NINJAS and created a new compon
 Phase5 -Full Website(Math-Magician) branch
 I developed full website with three pages i.e Home, calculator and Quote. For every page, I created a to display navigation links for all 3 routes on each page. I have used react basic styling to improve the look and feel of the pages.
 
+Phase 6-Test(Math-Magician) branch
+All the requirements from the test phase of the project have been implemented as follow:
+
+-Set up React Testing Library.
+-Wrote unit tests for the files operate.js and calculate.js using Jest.
+-Created unit tests for all React components:
+-Used Jest snapshots to test the components.
+-Used React Testing Library to simulate user interaction.
+-Ran full tests suite using Jest.
+
 ## Built With
 
 - Major languages: Javascript
@@ -69,7 +79,7 @@ I developed full website with three pages i.e Home, calculator and Quote. For ev
 
 ## Live Demo
 
--[Click here for live demo](https://math-magician-project-git-fullwebsite-harshika0102-gmailcom.vercel.app/calculator)
+-[Click here for live demo](https://math-magician-project-git-test-harshika0102-gmailcom.vercel.app/calculator)
 
 ### Prerequisites
 
@@ -136,7 +146,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Deployment
 
-- Not ready yet
+- [Click here for live demo](https://math-magician-project-git-test-harshika0102-gmailcom.vercel.app/calculator)
 
 ## Author
 
@@ -146,11 +156,18 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://linkedin.com/in/harshikagovind)
 
+👤 **Abdul-Aziz Fakhriddinov**
+
+- GitHub: [@githubhandle](https://github.com/AFakhriddinov)
+- Twitter: [@facebookhandle](https://www.facebook.com/abdulaziz.faxriddinov)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-aziz-fakhriddinov-5297a6107/)
+
+
+
 ### Future Features
 
 - **[Make complete website]**
 - **[Dynamic usage of routers for  navigation in the website]**
-
 
 
 ## 🤝 Contributing

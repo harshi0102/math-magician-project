@@ -1,3 +1,4 @@
+/* navigation styling */
 body {
   background-color: white;
 }
@@ -113,12 +114,14 @@ body {
   cursor: pointer;
 } */
 
-.container {
-  margin-top: -30px;
-  margin-left: 55%;
+.wrapper {
   display: flex;
-  flex-direction: column;
-  max-width: 33.33%;
+  justify-content: space-between;
+  padding: 0 2rem;
+}
+
+.calc {
+  min-width: 500px;
 }
 
 .display {
@@ -130,7 +133,7 @@ body {
   align-items: center;
   font-size: 1.5rem;
   font-weight: 500;
-  color: #fff;
+  color: #653b1a;
 }
 
 .row {
@@ -145,9 +148,9 @@ body {
   flex-direction: column;
 }
 
-.calc-btn-normal {
+.btn-normal {
   display: flex;
-  min-width: calc(25% - 1px);
+  min-width: calc(25%);
   height: 4rem;
   background-color: #e0e0e0;
   align-items: center;
@@ -156,19 +159,25 @@ body {
   border-bottom: 1px solid #d1d1d1;
 }
 
-.orangebutton {
+.orange {
   background-color: #f5913e;
   border-bottom: 1px solid #d1d1d1;
   border-right: none;
+  color: #653b1a;
+  font-weight: 800;
+  font-size: 1.5rem;
 }
 
-.firstsh {
+.first {
   padding-top: 1px;
   border-top: none;
 }
 
 .gray {
   border-bottom: 1px solid #d1d1d1;
+  color: #653b1a;
+  font-weight: 800;
+  font-size: 1.5rem;
 }
 
 .double {
@@ -177,6 +186,6 @@ body {
   border-bottom: none;
 }
 
-.lastsh {
+.last {
   border-bottom: none;
 }
