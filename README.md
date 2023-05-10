@@ -158,9 +158,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 👤 **Abdul-Aziz Fakhriddinov**
 
-- GitHub: [@harshi0102](https://github.com/harshi0102)
-- Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
-- LinkedIn: [harshikagovind](https://linkedin.com/in/harshikagovind)
+- GitHub: [@githubhandle](https://github.com/AFakhriddinov)
+- Twitter: [@facebookhandle](https://www.facebook.com/abdulaziz.faxriddinov)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-aziz-fakhriddinov-5297a6107/)
+
 
 
 ### Future Features
