@@ -113,10 +113,6 @@ body {
   cursor: pointer;
 } */
 
-button {
-  border: none;
-  cursor: pointer;
-}
 
 .wrapper {
   display: flex;
