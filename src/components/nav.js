@@ -9,7 +9,7 @@ const Nav = () => (
       <li><a href="/calculator">Calculator</a></li>
       <li><a href="/quotes">Quotes</a></li> */}
 
-      <Link to="/home">
+      <Link to="/">
         <li className="menuNav" title="home">
           Home
         </li>
