@@ -49,7 +49,7 @@ Phase 2- setup2 branch
 All the project requirements for the step 2 of the project - Components have been implemented:
 I have created a directory called components from CRA(text,images,styles).Inside components, created a new Calculator.js file and then created a react component that matches the below design.
 
-![screenshot](./snapshot.png)
+![image](https://github.com/harshi0102/math-magician-project/assets/108334376/13e5ec02-2026-4151-910b-e0f2e1eef990)
 
 Phase 3- Step3 branch
 I have created a new directory called logic and inside it I wrote code in calculate.js and operate.js after installing big.js using npm.I implemented click event handlers using the math logic from calculate.js and operate.js in my react component just to make my calculator buttons to work according to the funcationality i.e the button should subtract a given value when clicked on subtract button. 
